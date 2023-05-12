@@ -1,2 +1,3 @@
 # Ignore dataset contained in /data
 data/
+patch_images/
